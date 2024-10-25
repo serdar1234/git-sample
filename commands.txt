@@ -20,4 +20,7 @@ git add * // -all files everywhere;
 git add . // -all files in this directory
 git log --pretty=oneline --all --author="username"
 // see history of commits
+git checkout 213jhk // move to commit with this hash
+git checkout master // get back to master branch
+git revert HEAD --no-edit // delete the latest commit
 
