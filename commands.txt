@@ -16,3 +16,8 @@ COMMIT
 git add sth.txt		// or -A for all files
 git commit -m "message body"
 git status
+git add * // -all files everywhere;
+git add . // -all files in this directory
+git log --pretty=oneline --all --author="username"
+// see history of commits
+
