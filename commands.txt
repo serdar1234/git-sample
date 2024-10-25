@@ -1,0 +1,18 @@
+All git commands start with "git..."
+--version
+update-git-for-windows	to l8est version in cmd
+Use git bash to perform other commands
+Use nano fileName to text edit things
+git init  // to initialize new directory
+***
+CONFIGS
+config --global user.name "Serdar Geldyev"
+config --global user.email "i.seriq@yandex.ru"
+// for local configs go to master folder (where .git folder is)
+// and use the same code without --global flag
+// results can be seen in .git/config file
+***
+COMMIT
+git add sth.txt		// or -A for all files
+git commit -m "message body"
+git status
