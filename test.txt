@@ -1,3 +1,5 @@
 Hi there M2
 Hello world!
 new branch was created
+new line
+
